@@ -1,1 +1,2 @@
-update something from main branch
+<<<<<<< HEAD
+update something to avoid confict
